@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\bin\Debug\net6.0\TreeFromStars.exe
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\bin\Debug\net6.0\TreeFromStars.deps.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\bin\Debug\net6.0\TreeFromStars.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\bin\Debug\net6.0\TreeFromStars.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\bin\Debug\net6.0\TreeFromStars.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\refint\TreeFromStars.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\TreeFromStars.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\HelloWorld\TreeFromStars\obj\Debug\net6.0\ref\TreeFromStars.dll
