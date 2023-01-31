@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\bin\Debug\net6.0\EqualCouples.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\bin\Debug\net6.0\EqualCouples.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\bin\Debug\net6.0\EqualCouples.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\bin\Debug\net6.0\EqualCouples.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\bin\Debug\net6.0\EqualCouples.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\refint\EqualCouples.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\EqualCouples.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\EqualCouples\obj\Debug\net6.0\ref\EqualCouples.dll
