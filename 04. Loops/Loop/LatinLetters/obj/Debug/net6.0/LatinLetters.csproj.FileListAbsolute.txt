@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\bin\Debug\net6.0\LatinLetters.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\bin\Debug\net6.0\LatinLetters.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\bin\Debug\net6.0\LatinLetters.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\bin\Debug\net6.0\LatinLetters.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\bin\Debug\net6.0\LatinLetters.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\refint\LatinLetters.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\LatinLetters.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\LatinLetters\obj\Debug\net6.0\ref\LatinLetters.dll
