@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\bin\Debug\net6.0\PyramidOfNumbers.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\bin\Debug\net6.0\PyramidOfNumbers.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\bin\Debug\net6.0\PyramidOfNumbers.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\bin\Debug\net6.0\PyramidOfNumbers.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\bin\Debug\net6.0\PyramidOfNumbers.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\refint\PyramidOfNumbers.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\PyramidOfNumbers.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loops Exersise\PyramidOfNumbers\obj\Debug\net6.0\ref\PyramidOfNumbers.dll
