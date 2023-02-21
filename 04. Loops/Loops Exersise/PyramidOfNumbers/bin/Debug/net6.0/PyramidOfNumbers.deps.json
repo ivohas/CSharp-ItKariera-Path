@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PyramidOfNumbers/1.0.0": {
+        "runtime": {
+          "PyramidOfNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PyramidOfNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
