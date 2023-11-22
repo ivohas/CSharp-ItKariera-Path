@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\bin\Debug\net6.0\JobBoard.exe
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\bin\Debug\net6.0\JobBoard.deps.json
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\bin\Debug\net6.0\JobBoard.runtimeconfig.json
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\bin\Debug\net6.0\JobBoard.dll
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\bin\Debug\net6.0\JobBoard.pdb
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.dll
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\refint\JobBoard.dll
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.pdb
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\JobBoard.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Parking System\JobBoard\JobBoard\obj\Debug\net6.0\ref\JobBoard.dll

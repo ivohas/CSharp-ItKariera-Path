@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera-Files\ThirdModule\Exam\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll
