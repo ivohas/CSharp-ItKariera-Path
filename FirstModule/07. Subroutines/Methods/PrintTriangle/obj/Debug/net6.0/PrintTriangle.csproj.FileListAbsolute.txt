@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\bin\Debug\net6.0\PrintTriangle.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\bin\Debug\net6.0\PrintTriangle.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\bin\Debug\net6.0\PrintTriangle.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\bin\Debug\net6.0\PrintTriangle.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\bin\Debug\net6.0\PrintTriangle.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\refint\PrintTriangle.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\PrintTriangle.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\PrintTriangle\obj\Debug\net6.0\ref\PrintTriangle.dll

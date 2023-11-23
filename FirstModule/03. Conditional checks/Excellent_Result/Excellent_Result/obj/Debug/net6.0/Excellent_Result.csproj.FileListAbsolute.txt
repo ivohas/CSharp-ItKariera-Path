@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\bin\Debug\net6.0\Excellent_Result.exe
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\bin\Debug\net6.0\Excellent_Result.deps.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\bin\Debug\net6.0\Excellent_Result.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\bin\Debug\net6.0\Excellent_Result.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\bin\Debug\net6.0\Excellent_Result.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\refint\Excellent_Result.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\Excellent_Result.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\Excellent_Result\obj\Debug\net6.0\ref\Excellent_Result.dll

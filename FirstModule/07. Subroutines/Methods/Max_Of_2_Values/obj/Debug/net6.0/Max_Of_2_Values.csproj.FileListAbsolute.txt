@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\bin\Debug\net6.0\Max_Of_2_Values.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\bin\Debug\net6.0\Max_Of_2_Values.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\bin\Debug\net6.0\Max_Of_2_Values.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\bin\Debug\net6.0\Max_Of_2_Values.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\bin\Debug\net6.0\Max_Of_2_Values.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\refint\Max_Of_2_Values.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\Max_Of_2_Values.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\07. Subroutines\Methods\Max_Of_2_Values\obj\Debug\net6.0\ref\Max_Of_2_Values.dll

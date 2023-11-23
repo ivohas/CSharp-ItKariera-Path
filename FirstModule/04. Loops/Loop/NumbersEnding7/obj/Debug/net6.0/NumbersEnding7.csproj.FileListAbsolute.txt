@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\bin\Debug\net6.0\NumbersEnding7.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\bin\Debug\net6.0\NumbersEnding7.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\bin\Debug\net6.0\NumbersEnding7.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\bin\Debug\net6.0\NumbersEnding7.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\bin\Debug\net6.0\NumbersEnding7.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\refint\NumbersEnding7.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\NumbersEnding7.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\04. Loops\Loop\NumbersEnding7\obj\Debug\net6.0\ref\NumbersEnding7.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\bin\Debug\net6.0\TrainingLab-Exam1-Problem1.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\bin\Debug\net6.0\TrainingLab-Exam1-Problem1.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\bin\Debug\net6.0\TrainingLab-Exam1-Problem1.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\bin\Debug\net6.0\TrainingLab-Exam1-Problem1.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\bin\Debug\net6.0\TrainingLab-Exam1-Problem1.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\refint\TrainingLab-Exam1-Problem1.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\TrainingLab-Exam1-Problem1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1\obj\Debug\net6.0\ref\TrainingLab-Exam1-Problem1.dll

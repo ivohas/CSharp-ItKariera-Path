@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Excellent_Result/1.0.0": {
+        "runtime": {
+          "Excellent_Result.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excellent_Result/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

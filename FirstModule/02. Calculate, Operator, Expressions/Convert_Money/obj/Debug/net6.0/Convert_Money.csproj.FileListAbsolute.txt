@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\bin\Debug\net6.0\Convert_Money.exe
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\bin\Debug\net6.0\Convert_Money.deps.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\bin\Debug\net6.0\Convert_Money.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\bin\Debug\net6.0\Convert_Money.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\bin\Debug\net6.0\Convert_Money.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\refint\Convert_Money.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\Convert_Money.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\SquereArea\Convert_Money\obj\Debug\net6.0\ref\Convert_Money.dll

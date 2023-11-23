@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\bin\Debug\net6.0\Histogram-Exam1-Problem4.exe
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\bin\Debug\net6.0\Histogram-Exam1-Problem4.deps.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\bin\Debug\net6.0\Histogram-Exam1-Problem4.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\bin\Debug\net6.0\Histogram-Exam1-Problem4.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\bin\Debug\net6.0\Histogram-Exam1-Problem4.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\refint\Histogram-Exam1-Problem4.dll
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.pdb
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\Histogram-Exam1-Problem4.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\FirstModule\Exercise\ItKarieraCSharpFirstModule\08. Exam Prep\TrainingLab-Exam1-Problem1\Histogram-Exam1-Problem4\obj\Debug\net6.0\ref\Histogram-Exam1-Problem4.dll

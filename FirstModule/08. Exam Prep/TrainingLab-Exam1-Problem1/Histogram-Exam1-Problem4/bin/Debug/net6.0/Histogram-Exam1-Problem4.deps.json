@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Histogram-Exam1-Problem4/1.0.0": {
+        "runtime": {
+          "Histogram-Exam1-Problem4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Histogram-Exam1-Problem4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

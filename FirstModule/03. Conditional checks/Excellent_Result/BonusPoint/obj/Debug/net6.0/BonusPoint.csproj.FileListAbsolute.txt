@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\bin\Debug\net6.0\BonusPoint.exe
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\bin\Debug\net6.0\BonusPoint.deps.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\bin\Debug\net6.0\BonusPoint.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\bin\Debug\net6.0\BonusPoint.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\bin\Debug\net6.0\BonusPoint.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\refint\BonusPoint.dll
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.pdb
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\BonusPoint.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\Exercise\01. HelloWorld\Excellent_Result\BonusPoint\obj\Debug\net6.0\ref\BonusPoint.dll
