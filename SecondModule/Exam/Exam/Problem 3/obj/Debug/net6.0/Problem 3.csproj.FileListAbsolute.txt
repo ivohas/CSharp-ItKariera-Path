@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\bin\Debug\net6.0\Problem 3.exe
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\bin\Debug\net6.0\Problem 3.deps.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\bin\Debug\net6.0\Problem 3.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\bin\Debug\net6.0\Problem 3.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\bin\Debug\net6.0\Problem 3.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\refint\Problem 3.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\Problem 3.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\Exam\Exam\Problem 3\obj\Debug\net6.0\ref\Problem 3.dll

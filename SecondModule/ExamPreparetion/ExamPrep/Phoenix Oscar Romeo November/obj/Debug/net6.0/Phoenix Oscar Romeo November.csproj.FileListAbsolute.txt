@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\bin\Debug\net6.0\Phoenix Oscar Romeo November.exe
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\bin\Debug\net6.0\Phoenix Oscar Romeo November.deps.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\bin\Debug\net6.0\Phoenix Oscar Romeo November.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\bin\Debug\net6.0\Phoenix Oscar Romeo November.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\bin\Debug\net6.0\Phoenix Oscar Romeo November.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\refint\Phoenix Oscar Romeo November.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\Phoenix Oscar Romeo November.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Oscar Romeo November\obj\Debug\net6.0\ref\Phoenix Oscar Romeo November.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\bin\Debug\net6.0\ExamPrep.exe
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\bin\Debug\net6.0\ExamPrep.deps.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\bin\Debug\net6.0\ExamPrep.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\bin\Debug\net6.0\ExamPrep.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\bin\Debug\net6.0\ExamPrep.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\refint\ExamPrep.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ExamPrep.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\ExamPrep\obj\Debug\net6.0\ref\ExamPrep.dll

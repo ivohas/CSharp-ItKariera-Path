@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\bin\Debug\net6.0\Water.exe
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\bin\Debug\net6.0\Water.deps.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\bin\Debug\net6.0\Water.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\bin\Debug\net6.0\Water.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\bin\Debug\net6.0\Water.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\refint\Water.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\Water.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Water\obj\Debug\net6.0\ref\Water.dll

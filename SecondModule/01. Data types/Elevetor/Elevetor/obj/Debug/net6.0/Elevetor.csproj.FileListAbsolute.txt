@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\bin\Debug\net6.0\Elevetor.exe
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\bin\Debug\net6.0\Elevetor.deps.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\bin\Debug\net6.0\Elevetor.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\bin\Debug\net6.0\Elevetor.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\bin\Debug\net6.0\Elevetor.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\refint\Elevetor.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\Elevetor.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\Elevetor\obj\Debug\net6.0\ref\Elevetor.dll

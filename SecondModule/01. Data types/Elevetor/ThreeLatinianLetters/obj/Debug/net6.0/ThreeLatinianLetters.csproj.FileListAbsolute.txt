@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\bin\Debug\net6.0\ThreeLatinianLetters.exe
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\bin\Debug\net6.0\ThreeLatinianLetters.deps.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\bin\Debug\net6.0\ThreeLatinianLetters.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\bin\Debug\net6.0\ThreeLatinianLetters.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\bin\Debug\net6.0\ThreeLatinianLetters.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\refint\ThreeLatinianLetters.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ThreeLatinianLetters.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\ThreeLatinianLetters\obj\Debug\net6.0\ref\ThreeLatinianLetters.dll

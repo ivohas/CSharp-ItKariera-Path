@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\bin\Debug\net6.0\TravelAgency.exe
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\bin\Debug\net6.0\TravelAgency.deps.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\bin\Debug\net6.0\TravelAgency.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\bin\Debug\net6.0\TravelAgency.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\bin\Debug\net6.0\TravelAgency.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\refint\TravelAgency.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\TravelAgency.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\TravelAgency\obj\Debug\net6.0\ref\TravelAgency.dll

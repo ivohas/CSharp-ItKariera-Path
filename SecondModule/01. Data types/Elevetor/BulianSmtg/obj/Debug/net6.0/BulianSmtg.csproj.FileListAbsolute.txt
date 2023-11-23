@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\bin\Debug\net6.0\BulianSmtg.exe
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\bin\Debug\net6.0\BulianSmtg.deps.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\bin\Debug\net6.0\BulianSmtg.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\bin\Debug\net6.0\BulianSmtg.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\bin\Debug\net6.0\BulianSmtg.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\refint\BulianSmtg.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\BulianSmtg.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\BulianSmtg\obj\Debug\net6.0\ref\BulianSmtg.dll

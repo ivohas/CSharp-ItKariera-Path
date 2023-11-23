@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\bin\Debug\net6.0\Phoenix Grid.exe
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\bin\Debug\net6.0\Phoenix Grid.deps.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\bin\Debug\net6.0\Phoenix Grid.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\bin\Debug\net6.0\Phoenix Grid.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\bin\Debug\net6.0\Phoenix Grid.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\refint\Phoenix Grid.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\Phoenix Grid.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Phoenix Grid\obj\Debug\net6.0\ref\Phoenix Grid.dll

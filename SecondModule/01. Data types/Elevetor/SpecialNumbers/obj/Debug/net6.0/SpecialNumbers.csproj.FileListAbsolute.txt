@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.exe
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.deps.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\refint\SpecialNumbers.dll
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.pdb
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera\SecondModule\Practical\01. Data types\Elevetor\SpecialNumbers\obj\Debug\net6.0\ref\SpecialNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\bin\Debug\net6.0\Icarus.exe
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\bin\Debug\net6.0\Icarus.deps.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\bin\Debug\net6.0\Icarus.runtimeconfig.json
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\bin\Debug\net6.0\Icarus.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\bin\Debug\net6.0\Icarus.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\refint\Icarus.dll
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.pdb
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\Icarus.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ItKariera-Exersises\SecondModule\ExamPreparetion\ExamPrep\Icarus\obj\Debug\net6.0\ref\Icarus.dll
